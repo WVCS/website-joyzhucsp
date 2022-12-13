@@ -1,3 +1,12 @@
 body {
   background-color: #adc178;
 }
+ 
+nav{
+  list-style-type: none;
+  background-color: #7b8f4b;
+  width: 100%;
+  position: fixed;
+  top: 0;
+  left: 0;
+}
