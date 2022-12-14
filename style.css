@@ -26,3 +26,8 @@ a {
   color: #dde5b6;
   letter-spacing: 5px;
 }
+
+img {
+  width: 50vw;
+  border: none;
+}
