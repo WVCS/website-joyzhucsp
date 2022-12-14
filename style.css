@@ -2,11 +2,27 @@ body {
   background-color: #adc178;
 }
  
-nav{
+nav {
   list-style-type: none;
   background-color: #7b8f4b;
   width: 100%;
   position: fixed;
   top: 0;
   left: 0;
+}
+
+li {
+  display:inline;
+  padding: 13px;
+  float: right;
+}
+
+li:hover {
+  background-color: #6f8756;
+}
+
+a {
+  text-decoration: none;
+  color: #dde5b6;
+  letter-spacing: 5px;
 }
